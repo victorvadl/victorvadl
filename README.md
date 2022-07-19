@@ -1,5 +1,5 @@
 ### Hi there 👋 I'am Victor Rafael
-- 🌱 I’m currently studying to be a Software Engineer
+- 🌱 I’m currently studying to be a Data Scientist
 <div>
   <a href="https://github.com/victorvadl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorvadl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
