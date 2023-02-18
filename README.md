@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on API integrations using python.
+- 🔭 I’m currently working on API integrations using Python.
 - 🌱 I’m currently learning PhP, SQL and Python.
