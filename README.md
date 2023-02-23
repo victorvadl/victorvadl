@@ -9,7 +9,6 @@
 
 <!-- My Contacts -->
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-<hr>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/victor-rafael-vaz/">
@@ -25,7 +24,6 @@
 <br>
 <!-- My Technologies -->
 <h2 align="center">Technology Stack <img src="images/laptop.gif" width="50"></h2>
-<hr>
 
 <p align="center">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -40,7 +38,6 @@
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
-<hr>
 
 <p align = "center"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=victorvadl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
