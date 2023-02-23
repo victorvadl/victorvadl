@@ -11,15 +11,15 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/victor-rafael-vaz/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/victorcodes.tech">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://victorcodes.tech">
-<img src="https://img.shields.io/website?label=VictorCodes.tech&style=for-the-badge&url=https://victorcodes.tech"/>
-</a>
+    <a href="https://www.linkedin.com/in/victor-rafael-vaz/">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/victorcodes.tech">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://victorcodes.tech">
+        <img src="https://img.shields.io/website?label=VictorCodes.tech&style=for-the-badge&url=https://victorcodes.tech"/>
+    </a>
 </p>
 
 <!-- My Technologies -->
@@ -40,12 +40,18 @@
 </h2>
 
 <p align = "center"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=victorvadl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvadl&langs_count=4&theme=dracula">
+    <a href="https://github.com/victorvadl">
+        <img src="https://github-readme-stats.vercel.app/api?username=victorvadl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    </a>
+    <a href="https://github.com/victorvadl">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvadl&langs_count=4&theme=dracula">
+    </a>
 </p>
 
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=victorvadl&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
+    <a href="https://github.com/victorvadl">
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=victorvadl&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
+    </a>
 </p>
 <!-- 
 Another nice theme is "radical"
