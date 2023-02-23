@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/website?label=VictorCodes.tech&style=for-the-badge&url=https://victorcodes.tech"/>
 </a>
 </p>
-<br>
+
 <!-- My Technologies -->
 <h2 align="center">Technology Stack <img src="images/laptop.gif" width="50"></h2>
 
@@ -33,7 +33,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
-<br>
+
 <!-- My GitHub Stats -->
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -47,7 +47,6 @@
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=victorvadl&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
 </p>
-<br>
 <!-- 
 Another nice theme is "radical"
 If you want to use a compact Top Langs visual, you should use &layout=compact
@@ -62,3 +61,5 @@ If you want to use a compact Top Langs visual, you should use &layout=compact
 <p align="center"><br/>
 <img src="https://github.com/victorvadl/victorvadl/blob/output/github-contribution-grid-snake.svg">
 </p>
+
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
