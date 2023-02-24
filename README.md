@@ -2,7 +2,7 @@
 <h2 align="center">Hi there, I'm Victor Rafael 👋</h2>
 
 <p align="center">
-- 🌱 I’m currently studying for to be a Data Engineer. <br>
+- 📜 I’m currently studying for to be a Data Engineer. <br>
 - 🔭 Working on API integrations using Python. <br>
 - 📖 I’m currently learning Python, SQL and PhP.
 </p>
