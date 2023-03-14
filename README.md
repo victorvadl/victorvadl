@@ -3,7 +3,7 @@
 
 <p align="center">
 - 📜 I’m currently studying for to be a Data Engineer. <br>
-- 🔭 Working on API integrations using Python. <br>
+- 🔭 Working on API integrations using Python and SQL. <br>
 - 📖 I’m currently learning Python, SQL and PhP.
 </p>
 
