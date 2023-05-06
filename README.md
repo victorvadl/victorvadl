@@ -50,6 +50,7 @@
     <a href="https://github.com/victorvadl">
         <img src="https://github-readme-stats.vercel.app/api?username=victorvadl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     </a>
+    <!-- Most Used Languages Stats -->
     <a href="https://github.com/victorvadl">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvadl&langs_count=4&theme=dracula">
     </a>
