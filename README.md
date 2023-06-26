@@ -4,7 +4,7 @@
 <p align="center">
 - 📜 I’m currently studying for to be a Software Engineer. <br>
 - 🔭 Working on API integrations using Python and SQL. <br>
-- 📖 I’m currently learning C#, .NET and SQL.
+- 📖 I’m currently learning C#, Javascript, .NET and SQL.
 </p>
 
 <!-- Profile Views -->
