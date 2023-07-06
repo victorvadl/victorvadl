@@ -55,7 +55,7 @@
     </a>
     <!-- Most Used Languages Stats -->
     <a href="https://github.com/victorvadl">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvadl&langs_count=7&amp;&amp;theme=dracula&amp;&amp;layout=compact&amp;&amp;show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvadl&langs_count=8&amp;&amp;theme=dracula&amp;&amp;layout=compact&amp;&amp;show_icons=true">
     </a>
 </p>
 
