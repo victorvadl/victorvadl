@@ -23,7 +23,7 @@
     <a href="https://instagram.com/victorcodes.tech">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://victorcodes.tech">
+    <a href="https://victorcodes.tech?utm_source=github&utm_medium=github">
         <img src="https://img.shields.io/website?label=VictorCodes.tech&style=for-the-badge&url=https://victorcodes.tech"/>
     </a>
 </p>
