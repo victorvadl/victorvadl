@@ -3,8 +3,7 @@
 
 <p align="center">
 - 📜 I am a Software Engineer on a constant development journey. <br>
-- 🔭 Working on the development of API integrations and webscrapping, using Python, Javascript and SQL. <br>
-- 📖 Currently I am studying  .NET, Javascript and SQL.
+- 🔭 Working on the development of API integrations and webscrapping, using Python, Javascript and SQL. 
 </p>
 
 <!-- Profile Views -->
