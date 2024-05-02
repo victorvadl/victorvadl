@@ -74,8 +74,7 @@ If you want to use a compact Top Langs visual, you should use &layout=compact
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 
-<p align="center"><br/>
-<img src="https://github.com/victorvadl/victorvadl/blob/output/github-contribution-grid-snake.svg">
-</p>
+
+![snake animation](https://github.com/victorvadl/victorvadl/blob/output/github-contribution-grid-snake2.svg)
 
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
