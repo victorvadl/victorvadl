@@ -68,13 +68,19 @@ Another nice theme is "radical"
 If you want to use a compact Top Langs visual, you should use &layout=compact
  -->
 
-<!-- My Contribution Graph -->
+<!-- My Contribution Graph 
 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-![snake animation](https://github.com/victorvadl/victorvadl/blob/output/github-contribution-grid-snake.svg)
+
+![snake animation](https://github.com/victorvadl/victorvadl/blob/output/github-contribution-grid-snake.svg) -->
 
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
