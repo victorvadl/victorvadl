@@ -75,6 +75,6 @@ If you want to use a compact Top Langs visual, you should use &layout=compact
 </h2>
 
 
-![snake animation](https://github.com/victorvadl/victorvadl/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/victorvadl/victorvadl/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
