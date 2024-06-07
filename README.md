@@ -3,7 +3,7 @@
 
 <p align="center">
 - 📜 I am a Full Stack Developer on a constant development journey. <br>
-- 🔭 Working on the development of API integrations and webscrapping, using Python, Javascript and SQL. 
+- 🔭 Working on the development of API integrations, webscrapping, web application and mobile application. 
 </p>
 
 <!-- Profile Views -->
@@ -32,6 +32,7 @@
 
 <p align="center">
     <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="c#" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
