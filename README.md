@@ -2,7 +2,7 @@
 <h2 align="center">Hi there, I'm Victor Lima 👋</h2>
 
 <p align="center">
-- 📜 I am a Full Stack Developer on a constant development journey. <br>
+- 📜 I am a Software Engineer on a constant development journey. <br>
 - 🔭 Working on the development of API integrations, webscrapping, web application and mobile application. 
 </p>
 
